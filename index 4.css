@@ -1,0 +1,60 @@
+.gorizont{
+    position: absolute;
+    top: 500px;
+    right: 900px;
+    }
+
+.sun{
+    top: 350px;
+    right: 300px;
+    position: absolute;
+}
+.tree1{
+    top: 532px;
+    right: 100px;
+    position: absolute;
+}
+.clouds{
+    top: 360px;
+    right: 700px;
+    position: absolute;
+}
+.clouds2{
+    top: 400px;
+    right: 1000px;
+    position: absolute;
+}
+.boy{
+    position: absolute;
+    top: 660px;
+    right: 760px;
+    }
+.plants{
+    position: absolute;
+    top: 720px;
+    right: 610px;
+    }
+.flover{
+    position: absolute;
+    top: 705px;
+    right: 500px;
+    }       
+.tree{
+        position: absolute;
+        top: 530px;
+        right: 600px;
+        }  
+.girl{
+            position: absolute;
+            top: 700px;
+            right: 400px;
+            }  
+ .dog{
+            position: absolute;
+            top: 700px;
+            right: 340px;
+            }            
+.cat{
+ position: absolute;
+  top: 750px;
+ right: 755px;}
